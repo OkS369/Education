@@ -1,0 +1,54 @@
+type: edu
+files:
+- name: possible_test_results.py
+  visible: true
+  placeholders:
+  - offset: 100
+    length: 22
+    placeholder_text: write a test which will succeed
+    initial_state:
+      length: 31
+      offset: 100
+    initialized_from_dependency: false
+    possible_answer: pass
+    selected: true
+    status: Solved
+  - offset: 160
+    length: 22
+    placeholder_text: write a test which will fail
+    initial_state:
+      length: 28
+      offset: 169
+    initialized_from_dependency: false
+    possible_answer: self.assertEqual(True, False)
+    selected: true
+    status: Solved
+  - offset: 218
+    length: 24
+    placeholder_text: write a test which will cause an error
+    initial_state:
+      length: 38
+      offset: 233
+    initialized_from_dependency: false
+    possible_answer: raise Exception()
+    selected: true
+    status: Solved
+  text: |
+    import unittest
+
+
+    class TestPossibleResults(unittest.TestCase):
+        def test_success(self):
+            write a test which will succeed
+
+        def test_failure(self):
+            write a test which will fail
+
+        def test_error(self):
+            write a test which will cause an error
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+status: Solved
+record: -1

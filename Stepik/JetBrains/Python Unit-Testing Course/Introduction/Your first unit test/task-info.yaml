@@ -1,0 +1,37 @@
+type: edu
+files:
+- name: test_hello_someone.py
+  visible: true
+  placeholders:
+  - offset: 140
+    length: 57
+    placeholder_text: test that the function returns "Hello, World!" when called with
+      the appropriate input argument
+    initial_state:
+      length: 94
+      offset: 140
+    initialized_from_dependency: false
+    possible_answer: self.assertEqual(hello_someone("World"), "Hello, World!")
+    selected: true
+    status: Solved
+  text: |
+    import unittest
+
+    from hello_someone import hello_someone
+
+
+    class TestHelloWorld(unittest.TestCase):
+        def test_hello_world(self):
+            test that the function returns "Hello, World!" when called with the appropriate input argument
+  learner_created: false
+- name: hello_someone.py
+  visible: true
+  text: |
+    def hello_someone(name):
+        return "Hello, {}!".format(name)
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+status: Solved
+record: -1

@@ -1,0 +1,156 @@
+type: edu
+files:
+- name: truthiness.py
+  visible: true
+  placeholders:
+  - offset: 169
+    length: 76
+    placeholder_text: write this test!
+    initial_state:
+      length: 16
+      offset: 169
+    initialized_from_dependency: false
+    possible_answer: self.assertFalse(0)
+    selected: true
+    status: Solved
+  - offset: 290
+    length: 18
+    placeholder_text: write this test!
+    initial_state:
+      length: 16
+      offset: 287
+    initialized_from_dependency: false
+    possible_answer: self.assertTrue(1)
+    selected: true
+    status: Solved
+  - offset: 416
+    length: 18
+    placeholder_text: write this test!
+    initial_state:
+      length: 16
+      offset: 411
+    initialized_from_dependency: false
+    possible_answer: self.assertTrue(3)
+    selected: true
+    status: Solved
+  - offset: 570
+    length: 6
+    placeholder_text: MethodName
+    initial_state:
+      length: 10
+      offset: 563
+    initialized_from_dependency: false
+    possible_answer: "false"
+    selected: true
+    status: Solved
+  - offset: 897
+    length: 5
+    placeholder_text: choose the proper assetion method
+    initial_state:
+      length: 33
+      offset: 895
+    initialized_from_dependency: false
+    possible_answer: "false"
+    selected: true
+    status: Solved
+  - offset: 939
+    length: 4
+    placeholder_text: choose the proper assetion method
+    initial_state:
+      length: 33
+      offset: 965
+    initialized_from_dependency: false
+    possible_answer: "true"
+    selected: true
+    status: Solved
+  - offset: 999
+    length: 39
+    placeholder_text: implement this test using _test_container_class()
+    initial_state:
+      length: 49
+      offset: 1054
+    initialized_from_dependency: false
+    possible_answer: self._test_container_class([], [False])
+    selected: true
+    status: Solved
+  - offset: 1074
+    length: 40
+    placeholder_text: implement this test using _test_container_class()
+    initial_state:
+      length: 49
+      offset: 1139
+    initialized_from_dependency: false
+    possible_answer: self._test_container_class((), (False,))
+    selected: true
+    status: Solved
+  - offset: 1148
+    length: 42
+    placeholder_text: implement this test using _test_container_class()
+    initial_state:
+      length: 49
+      offset: 1222
+    initialized_from_dependency: false
+    possible_answer: self._test_container_class(set(), {False})
+    selected: true
+    status: Solved
+  - offset: 1225
+    length: 46
+    placeholder_text: implement this test using _test_container_class()
+    initial_state:
+      length: 49
+      offset: 1306
+    initialized_from_dependency: false
+    possible_answer: 'self._test_container_class({}, {False: False})'
+    selected: true
+    status: Solved
+  text: |
+    import unittest
+
+
+    class TestIntegerTruthiness(unittest.TestCase):
+        def test_zero(self):
+            """check that the thruthiness of the integer zero is False"""
+            write this test!
+
+        def test_one(self):
+            """check that the thruthiness of the integer one is True"""
+            write this test!
+
+        def test_other_value(self):
+            """check the thruthiness of an integer other than zero"""
+            write this test!
+
+
+    class TestNoneTruthiness(unittest.TestCase):
+        def test_none(self):
+            """check the thruthiness of None"""
+            self.assertMethodName(None)
+
+
+    class TestContainerTruthiness(unittest.TestCase):
+        # Note:
+        # -----
+        # Methods whose name starts with "_test" are not considered test methods,
+        # just like all methods whose name doesn't begin with "test".
+
+        def _test_container_class(self, empty_container, non_empty_container):
+            self.assertchoose the proper assetion method(empty_container)
+            self.assertchoose the proper assetion method(non_empty_container)
+
+        def test_list(self):
+            implement this test using _test_container_class()
+
+        def test_tuple(self):
+            implement this test using _test_container_class()
+
+        def test_set(self):
+            implement this test using _test_container_class()
+
+        def test_dict(self):
+            implement this test using _test_container_class()
+  learner_created: false
+- name: tests.py
+  visible: false
+  learner_created: false
+status: Solved
+record: -1

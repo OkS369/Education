@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a9b50a6-5bb8-458d-b963-be12a9dbbfe0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UKtguuTYUttOIoWpWWtF7Syoyt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Google Drive/Code/Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for comparison_assertions.TestRandomNot42.test_many_values">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programs\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="D:/Google Drive/Code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/Google Drive/Code/Python" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for comparison_assertions.TestFindFoo.test_strings_without_foo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assertion Types/Comparison Assertions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;comparison_assertions.TestFindFoo.test_strings_without_foo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for comparison_assertions.TestRandomFloatBetweenInclusive" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assertion Types/Comparison Assertions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;comparison_assertions.TestRandomFloatBetweenInclusive&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for comparison_assertions.TestRandomFloatBetweenInclusive.test_random_values" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assertion Types/Comparison Assertions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;comparison_assertions.TestRandomFloatBetweenInclusive.test_random_values&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for comparison_assertions.TestRandomNot42.test_many_values" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assertion Types/Comparison Assertions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;comparison_assertions.TestRandomNot42.test_many_values&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in comparison_assertions.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Python Unit-Testing Course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assertion Types/Comparison Assertions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Assertion Types/Comparison Assertions/comparison_assertions.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for comparison_assertions.TestRandomNot42.test_many_values" />
+        <item itemvalue="Python tests.Unittests for comparison_assertions.TestFindFoo.test_strings_without_foo" />
+        <item itemvalue="Python tests.Unittests for comparison_assertions.TestRandomFloatBetweenInclusive.test_random_values" />
+        <item itemvalue="Python tests.Unittests for comparison_assertions.TestRandomFloatBetweenInclusive" />
+        <item itemvalue="Python tests.Unittests in comparison_assertions.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9b50a6-5bb8-458d-b963-be12a9dbbfe0" name="Default Changelist" comment="" />
+      <created>1575117228619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575117228619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="211" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575459474053">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="211" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575459474053" />
+    <state x="360" y="125" width="1200" height="800" key="DiffContextDialog" timestamp="1575459624670">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="360" y="125" width="1200" height="800" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575459624670" />
+    <state x="506" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1575459530682">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="506" y="248" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1575459530682" />
+  </component>
+</project>
