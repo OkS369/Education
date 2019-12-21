@@ -1,0 +1,10 @@
+4
+base
+second : base
+otherbase
+first : otherbase
+4
+base
+otherbase
+first
+second
