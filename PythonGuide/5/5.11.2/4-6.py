@@ -1,0 +1,6 @@
+s = set(['boat', 'bus', 'plane', 'train'])
+print(s)
+s = set(('cyclist', 'driver', 'pedestrian'))
+print(s)
+s = set({'breakfast': 'coffee', 'lunch': 'milk', 'dinner': 'tea'})
+print(s)

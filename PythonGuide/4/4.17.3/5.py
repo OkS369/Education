@@ -1,0 +1,57 @@
+names = ['Andriy','Martin','Olga','Roman']
+days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+digits = [0,1,2,3,4,5,6,7,8,9]
+n = names.copy()
+print(n)
+d = list(days)
+print(d)
+d = digits[::]
+print(d)
+print(len(d))
+a = list('list')
+birthday = '16.12.1998'
+b = birthday.split('.')
+print(a, birthday, b, sep = '\n')
+birthday = '16..1998'
+b2 = birthday.split('.')
+print(birthday, b2, sep = '\n')
+b3 = '.'.join(b2)
+print(birthday, b3, sep = '\n')
+print(days.index('Sunday'))
+names.append('All')
+print(names)
+names.insert(-1, 'Other')
+print(names)
+some = days + digits
+print(some)
+some.extend(names)
+print(some)
+some.append(names)
+print(some)
+del some[-1]
+print(some)
+del some[0:6]
+print(some)
+some.remove('Sunday')
+print(some)
+some.remove(0)
+some.pop(1)
+print('"Olga" in names:\n','Olga' in names)
+print('"Petro" in names:\n','Petro' in names)
+print('"Olga" not in names:\n','Olga' in names)
+print('"Petro" not in names:\n','Petro' in names)
+print(names.count('Martin'))
+print(some)
+'''some.sort()
+print(some)
+some.reverse()
+print(some)'''
+numbers = list(range(1,6))
+print(numbers)
+print(min(numbers),max(numbers),sum(numbers))
+even_numbers = list(range(2,11,2))
+print(even_numbers)
+print(min(even_numbers),max(even_numbers),sum(even_numbers))
+tuple(numbers)
+print(numbers)
+print(tuple(numbers))
