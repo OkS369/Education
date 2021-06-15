@@ -1,84 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47f6cae1-f412-4c8b-9320-375b37355370" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="47f6cae1-f412-4c8b-9320-375b37355370" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/3/ex_3.5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/3/ex_3.5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.2/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/4/4.17.3/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.2/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.2/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.2/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.2/4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/6_morse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/6_morse_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/5/5.11.3/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PythonGuide/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django Girls Tutorial/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django Girls Tutorial/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Definition/class_definition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Definition/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Self explanation/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Special __init__ method/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access (1)/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Boolean operators order/boolean_order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Boolean operators order/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Boolean operators/boolean_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Boolean operators/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/else_elif.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/If statement/if_statement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/If statement/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Dictionaries/dicts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Dictionaries/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Dictionary keys() and values()/dict_key_value.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Dictionary keys() and values()/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/In keyword/in_keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/In keyword/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/List items/list_items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/List items/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Lists introduction/lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Lists introduction/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Lists operations/list_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Lists operations/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Tuples/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Tuples/tuples.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Read file/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Read file/input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Read file/read_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Read file/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Write to file/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Write to file/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/File input output/Write to file/write_to_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Default parameters/default_parameter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Default parameters/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Definition/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Definition/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Parameters and call arguments/param_args.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Parameters and call arguments/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Return value/return_keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Return value/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Comments/comments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Comments/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Our first program/hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Our first program/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Break keyword/break_keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Break keyword/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Continue keyword/continue_keyword.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/Continue keyword/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop using string/for_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop using string/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop/for_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While loop/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While loop/while_loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Builtin modules/builtin_modules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Builtin modules/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/From import/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/From import/from_import.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/From import/my_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/From import/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Import module/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Import module/imports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Import module/my_module.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Import module/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Basic string methods/string_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Basic string methods/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Character escaping/character_escaping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Character escaping/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Concatenation/concatenation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Concatenation/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/In operator/in_operator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/In operator/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String formatting/string_formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String formatting/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String indexing/string_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String indexing/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String length/len_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String length/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String multiplication/string_multiplication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String multiplication/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String negative indexing/negative_indexing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String negative indexing/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String slicing/slicing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/String slicing/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Arithmetic operators/arithmetic_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Arithmetic operators/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Assignments/assignments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Assignments/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Boolean operators/boolean_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Boolean operators/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Comparison operators/comparison_operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Comparison operators/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Type conversion/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Type conversion/type_cast.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Undefined variable/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Undefined variable/undefined_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Variable definition/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Variable definition/variable_definition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Variable types/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Variable types/variable_type.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Introduction/Our first program/hello_world.py">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState>
-                  <caret column="32" selection-start-column="32" selection-end-column="46" />
-                </MainEditorState>
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="585" />
-    <option name="y" value="475" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Course" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="Course">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Introduction to Python" type="a264ea2a:RootNode" />
-              <item name="Introduction to Python" type="ed842865:CourseNode" />
-            </path>
-            <path>
-              <item name="Introduction to Python" type="a264ea2a:RootNode" />
-              <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Introduction" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Introduction to Python" type="a264ea2a:RootNode" />
-              <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Introduction" type="d53b8fed:LessonNode" />
-              <item name="Our first program" type="4928525d:TaskNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectId" id="1VynERmXlFy1kAxSEiuNV6Vtdvn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Google Drive/Code/Python" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.self_parameter">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +172,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="D:/Google Drive/Code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="D:/Google Drive/Code/Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../.." />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,6 +186,132 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="access_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects (1)/Variable access (1)/access_variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_definition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects (1)/Definition/class_definition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="default_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions (1)/Default parameters/default_parameter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="return_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions (1)/Return value/return_keyword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="self_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Introduction to Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OkS\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects (1)/Self explanation/self_parameter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.self_parameter" />
+        <item itemvalue="Python.access_variable" />
+        <item itemvalue="Python.class_definition" />
+        <item itemvalue="Python.default_parameter" />
+        <item itemvalue="Python.return_keyword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -114,43 +326,35 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Task" order="3" visible="true" weight="0.3299356" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Introduction/Our first program/hello_world.py">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState>
-              <caret column="32" selection-start-column="32" selection-end-column="46" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="414" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578234521223">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578234521223" />
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog" timestamp="1578426754423">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="92" y="92" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578426754423" />
+    <state width="1853" height="258" key="GridCell.Tab.0.bottom" timestamp="1578426696996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578426696996" />
+    <state width="1853" height="258" key="GridCell.Tab.0.center" timestamp="1578426696996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="258" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578426696996" />
+    <state width="1853" height="258" key="GridCell.Tab.0.left" timestamp="1578426696996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="258" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578426696996" />
+    <state width="1853" height="258" key="GridCell.Tab.0.right" timestamp="1578426696996">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1853" height="258" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578426696996" />
+    <state x="221" y="0" key="SettingsEditor" timestamp="1578395970174">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="221" y="0" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578395970174" />
   </component>
   <component name="masterDetails">
     <states>
